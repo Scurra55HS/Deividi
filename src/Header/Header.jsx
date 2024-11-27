@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <HeaderContainer>
       <LogoContainer>
-        <img src="/path-to-your-logo.png" alt="Logo" width="40" height="40" />
+        <img src="/" alt="Logo" width="40" height="40" />
         <LogoText>AGENT LOG</LogoText>
       </LogoContainer>
       <NavLinks>
